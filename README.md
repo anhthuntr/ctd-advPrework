@@ -1,0 +1,1 @@
+clone the repository and open index.html in any browser
